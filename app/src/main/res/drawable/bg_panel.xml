@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No hard border on purpose — the view's own elevation (set in the layout) gives it a
+     soft natural shadow instead, which reads as far less "boxy" than an outline. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="18dp" />
+    <solid android:color="@color/panel_bg" />
+</shape>

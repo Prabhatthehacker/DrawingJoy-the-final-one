@@ -1,0 +1,14 @@
+<resources>
+    <color name="board_bg">#F6F4F0</color>
+    <color name="panel_bg">#FFFFFF</color>
+    <color name="panel_border">#EDEAE3</color>
+    <color name="canvas_bg">#FFFFFF</color>
+    <color name="accent">#4C7EF3</color>
+    <color name="accent_soft">#EDF2FE</color>
+    <color name="text_primary">#2B2B30</color>
+    <color name="text_secondary">#93939C</color>
+    <color name="swatch_selected_ring">#4C7EF3</color>
+    <color name="record_red">#E5484D</color>
+    <color name="selected_tool_bg">#EDF2FE</color>
+    <color name="divider">#EFECE5</color>
+</resources>
